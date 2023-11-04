@@ -113,7 +113,7 @@ cv2.destroyAllWindows()
 ## Output
 
 ### i) Write the frame as JPG image
-</br>![Screenshot from 2023-11-04 09-22-03](https://github.com/rasika1206/Image-Acquisition-from-Web-Cameraa/assets/124434806/00d293b1-3c5e-4bbb-990e-df0fe302269a)
+</br>!![Screenshot from 2023-11-04 09-28-05](https://github.com/rasika1206/Image-Acquisition-from-Web-Cameraa/assets/124434806/03cf48e7-cf47-4788-8559-8bc729951091)
 
 </br>
 
